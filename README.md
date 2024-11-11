@@ -1,7 +1,6 @@
 # HondaFit-Data
 SQL Data Analysis of Honda Fit Engine Performance and Fuel Efficiency
-Project Goals:
-The goal of this project is to analyze the performance and efficiency of a Honda Fit based on data related to engine RPM, coolant temperature, engine load, and fuel levels. The analysis aims to uncover patterns and correlations in engine behavior and fuel consumption under various operating conditions.
+The project analyzes Honda Fit performance data, focusing on engine RPM, coolant temperature, engine load, and fuel levels. Objectives include uncovering patterns and relationships in engine performance and fuel efficiency, helping to understand how the vehicle responds to different driving conditions.
 
 Key objectives:
 
@@ -39,3 +38,8 @@ Key Insight: The average fuel level is slightly higher under Low Load conditions
 5. Rolling Average of Fuel Level:
  Calculated the rolling average of fuel level over time to observe fuel consumption trends.
 Key Insight: The rolling average helps to smooth out short-term fluctuations, revealing trends in fuel consumption. The fuel level decreases more noticeably in the first 30 seconds, which could be tied to engine warm-up or initial consumption during acceleration.
+
+
+Dataset ---->
+[CarDataLog.csv](https://github.com/user-attachments/files/17707542/CarDataLog.csv)
+
